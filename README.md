@@ -38,8 +38,3 @@ Copy code
 go test ./...
 These tests ensure that the system is capable of handling a large number of users and messages. The system should be able to support more than 20 concurrent users in testing.
 
-Troubleshooting
-If you run into issues while setting up or running the project, please open an issue in the GitHub repository. We are happy to assist with any problems you may have.
-
-License
-MIT
